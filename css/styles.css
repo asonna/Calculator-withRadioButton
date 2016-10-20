@@ -1,0 +1,23 @@
+#output {
+  font-size: 40px;
+}
+
+body {
+  background-image: url("../img/background.jpg");
+  color: white;
+  font-size: 20px;
+  font-family: monospace; sans-serif;
+}
+
+.jumbotron {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+button {
+  color: black;
+  font-weight: bolder;
+  font-size: 40px;
+  font-family: helvetica;
+}
